@@ -1,0 +1,34 @@
+{
+  "manifest_version": "1.0",
+  "org": "ivanovmg",
+  "repo": "unitofwork",
+  "versions": [
+    {
+      "commit": "de53931e7e1a8e5a8f6681fda24c40e241991d46",
+      "parsed_at": "2026-04-13T01:54:42.158652+00:00",
+      "tag": "v0.3.0",
+      "filetree": "filetree/de53931e7e1a8e5a8f6681fda24c40e241991d46.nq.gz",
+      "blobs": [
+        "blob/21a10f570ed572af56fc95d4e3598e434418e828.nq.gz",
+        "blob/17411b2b223ec8693fbf692f59e7713e66b42fc6.nq.gz",
+        "blob/b298a904ce9754b08a21679b89b19b6e5b270911.nq.gz",
+        "blob/138750037936fe4221ee256fe120affdce437c1d.nq.gz",
+        "blob/20e5d4824db89d2e210ec8fe0538a86d1cac1f46.nq.gz",
+        "blob/0640d8fb73315d29e0b747861bd4611626add9e4.nq.gz",
+        "blob/7906bf70fe26dc6adf0162b3862977c19ce06fd1.nq.gz",
+        "blob/fcb2bb8ab37ca22db6dbea1322a3f635ec59e3bb.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/8f836457c7d0842c5173b646970a86d2b759a9bb.nq.gz",
+        "blob/e3f54bd767d7d21ad4fb0964adc1eafe75fa50b6.nq.gz",
+        "blob/9ab814a820c8c29b9d31d3959c30635c242d01a3.nq.gz",
+        "blob/c3083a6eef02ff976dbdf001d7798135a2a7dac0.nq.gz",
+        "blob/76d1ef96ff18b602da2d45ca2be31390539d6a98.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
